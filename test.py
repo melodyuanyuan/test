@@ -1,3 +1,2 @@
-aster
-test1
+master
 test2
